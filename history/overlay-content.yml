@@ -1,7 +1,7 @@
 url: $MY_SECRET_SITE_3
-status: degraded
+status: down
 code: 404
-responseTime: 3302
-lastUpdated: 2023-05-23T16:31:17.902Z
+responseTime: 185
+lastUpdated: 2023-05-23T16:41:24.273Z
 startTime: Wed Feb 22 2023 05:12:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
