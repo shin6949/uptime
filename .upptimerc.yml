@@ -14,11 +14,6 @@ sites:
       - 200
       - 404
     maxResponseTime: 3000
-  - name: Overlay Content
-    url: $MY_SECRET_SITE_3
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 3000
   - name: Home NAS
     url: $MY_NAS_URL
     expectedStatusCodes:
