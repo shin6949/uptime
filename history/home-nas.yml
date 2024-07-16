@@ -1,7 +1,7 @@
 url: $MY_NAS_URL
-status: up
+status: degraded
 code: 200
-responseTime: 1776
-lastUpdated: 2024-07-16T03:51:41.177Z
+responseTime: 14207
+lastUpdated: 2024-07-16T03:59:24.734Z
 startTime: 2023-02-22T05:12:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
