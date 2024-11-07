@@ -1,7 +1,7 @@
 url: $MY_BOOKMARK_SERVICE_URL
-status: down
-code: 502
-responseTime: 667
-lastUpdated: 2024-11-07T05:29:18.546Z
+status: up
+code: 200
+responseTime: 1009
+lastUpdated: 2024-11-07T06:12:18.078Z
 startTime: 2024-11-05T11:08:20.677Z
 generator: Upptime <https://github.com/upptime/upptime>
