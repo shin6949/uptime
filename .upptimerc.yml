@@ -25,7 +25,7 @@ sites:
       - 200
     maxResponseTime: 3000
   - name: Blog Service
-    url: $BLOG_SEVRICE
+    url: $BLOG_SERVICE
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
