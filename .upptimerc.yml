@@ -24,6 +24,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
+  - name: Blog Service
+    url: $BLOG_SEVRICE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
   - name: Cloud AMD 1
     check: "tcp-ping"
     url: $CLOUD_AMD_1_IP
