@@ -1,7 +1,7 @@
 url: $OVERLAY_SERVICE_URL
 status: up
 code: 200
-responseTime: 771
-lastUpdated: 2024-11-30T06:35:31.214Z
+responseTime: 564
+lastUpdated: 2024-11-30T07:26:34.188Z
 startTime: 2024-11-05T11:08:23.021Z
 generator: Upptime <https://github.com/upptime/upptime>
