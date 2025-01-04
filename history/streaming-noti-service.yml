@@ -1,7 +1,7 @@
 url: $MY_STREAMING_NOTI_SERVICE_URL
-status: down
-code: 526
-responseTime: 415
-lastUpdated: 2025-01-04T05:28:22.528Z
+status: up
+code: 404
+responseTime: 602
+lastUpdated: 2025-01-04T06:33:20.504Z
 startTime: 2024-11-05T11:08:22.005Z
 generator: Upptime <https://github.com/upptime/upptime>
