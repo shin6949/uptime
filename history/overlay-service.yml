@@ -1,7 +1,7 @@
 url: $OVERLAY_SERVICE_URL
 status: down
 code: 403
-responseTime: 82
-lastUpdated: 2025-02-11T20:28:12.085Z
+responseTime: 67
+lastUpdated: 2025-02-11T21:25:00.713Z
 startTime: 2024-11-05T11:08:23.021Z
 generator: Upptime <https://github.com/upptime/upptime>
