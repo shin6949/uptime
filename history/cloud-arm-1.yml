@@ -1,7 +1,7 @@
 url: $CLOUD_ARM_1_IP
 status: up
 code: 200
-responseTime: 200
-lastUpdated: 2025-03-23T03:08:54.793Z
+responseTime: 161
+lastUpdated: 2025-03-23T03:42:02.955Z
 startTime: 2024-11-05T11:08:26.292Z
 generator: Upptime <https://github.com/upptime/upptime>
