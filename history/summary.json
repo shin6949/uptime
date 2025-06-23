@@ -261,9 +261,9 @@
     "slug": "cloud-amd-2",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 139,
@@ -271,7 +271,7 @@
     "timeMonth": 148,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-06-23": 2
+      "2025-06-23": 7
     }
   },
   {
