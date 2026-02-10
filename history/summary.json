@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1117,
-    "timeDay": 1101,
+    "timeDay": 1063,
     "timeWeek": 1058,
     "timeMonth": 1089,
     "timeYear": 1116,
@@ -35,10 +35,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.18%",
+    "uptimeYear": "92.22%",
     "time": 670,
-    "timeDay": 791,
-    "timeWeek": 778,
+    "timeDay": 778,
+    "timeWeek": 779,
     "timeMonth": 714,
     "timeYear": 673,
     "dailyMinutesDown": {
@@ -71,8 +71,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -85,9 +84,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.23%",
     "time": 656,
-    "timeDay": 724,
+    "timeDay": 716,
     "timeWeek": 717,
     "timeMonth": 631,
     "timeYear": 656,
@@ -97,8 +96,7 @@
       "2025-03-10": 73,
       "2025-02-13": 42,
       "2025-02-12": 1210,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -111,10 +109,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.20%",
     "time": 679,
-    "timeDay": 793,
-    "timeWeek": 778,
+    "timeDay": 784,
+    "timeWeek": 779,
     "timeMonth": 714,
     "timeYear": 680,
     "dailyMinutesDown": {
@@ -123,8 +121,7 @@
       "2025-03-10": 73,
       "2025-02-13": 42,
       "2025-02-12": 1321,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -137,10 +134,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.05%",
     "time": 707,
-    "timeDay": 791,
-    "timeWeek": 749,
+    "timeDay": 792,
+    "timeWeek": 751,
     "timeMonth": 656,
     "timeYear": 707,
     "dailyMinutesDown": {
@@ -155,8 +152,7 @@
       "2025-03-10": 432,
       "2025-02-13": 42,
       "2025-02-12": 1392,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -165,18 +161,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-amd-1",
     "status": "down",
-    "uptime": "98.51%",
+    "uptime": "98.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.93%",
-    "uptimeMonth": "77.43%",
-    "uptimeYear": "98.12%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.93%",
+    "uptimeYear": "98.08%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 140,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-02-09": 1438,
+      "2026-02-10": 217,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -191,18 +188,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-amd-2",
     "status": "down",
-    "uptime": "98.16%",
+    "uptime": "98.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "77.44%",
-    "uptimeYear": "97.67%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.94%",
+    "uptimeYear": "97.63%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 140,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-02-09": 1438,
+      "2026-02-10": 217,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -229,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 144,
+    "timeDay": 142,
     "timeWeek": 143,
-    "timeMonth": 141,
+    "timeMonth": 140,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -247,7 +245,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 144,
+    "timeDay": 142,
     "timeWeek": 143,
     "timeMonth": 141,
     "timeYear": 158,
