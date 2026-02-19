@@ -12,7 +12,7 @@ sites:
   #   url: $MY_BOOKMARK_SERVICE_URL
   #   expectedStatusCodes:
   #     - 200
-    maxResponseTime: 3000
+  #  maxResponseTime: 3000
   - name: Streaming Noti Service
     url: $MY_STREAMING_NOTI_SERVICE_URL
     expectedStatusCodes:
