@@ -38,7 +38,7 @@
     "uptimeYear": "99.96%",
     "time": 662,
     "timeDay": 751,
-    "timeWeek": 798,
+    "timeWeek": 799,
     "timeMonth": 680,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
     "uptime": "96.51%",
     "uptimeDay": "20.90%",
     "uptimeWeek": "4.04%",
-    "uptimeMonth": "45.92%",
+    "uptimeMonth": "45.91%",
     "uptimeYear": "95.49%",
     "time": 158,
     "timeDay": 219,
@@ -115,7 +115,7 @@
     "timeMonth": 141,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 949,
+      "2026-02-19": 954,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -140,10 +140,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-amd-2",
     "status": "down",
-    "uptime": "96.15%",
+    "uptime": "96.14%",
     "uptimeDay": "20.89%",
     "uptimeWeek": "2.98%",
-    "uptimeMonth": "45.68%",
+    "uptimeMonth": "45.66%",
     "uptimeYear": "95.02%",
     "time": 158,
     "timeDay": 168,
@@ -151,7 +151,7 @@
     "timeMonth": 140,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 950,
+      "2026-02-19": 955,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -183,9 +183,9 @@
     "slug": "cloud-arm-1",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "57.58%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "57.22%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "99.88%",
     "time": 157,
     "timeDay": 145,
@@ -193,7 +193,7 @@
     "timeMonth": 140,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-02-19": 610
+      "2026-02-19": 615
     }
   },
   {
@@ -203,9 +203,9 @@
     "slug": "cloud-arm-2",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "57.62%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "57.27%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.88%",
     "time": 158,
     "timeDay": 147,
@@ -213,7 +213,7 @@
     "timeMonth": 141,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 610
+      "2026-02-19": 615
     }
   }
 ]
