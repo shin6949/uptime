@@ -28,6 +28,7 @@ jobs:
         with:
           oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
           oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          tags: tag:upptime
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.41.0
         with:
