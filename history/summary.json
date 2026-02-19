@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1116,
-    "timeDay": 1078,
+    "timeDay": 1080,
     "timeWeek": 1061,
     "timeMonth": 1073,
     "timeYear": 1116,
@@ -36,8 +36,8 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
-    "time": 662,
-    "timeDay": 745,
+    "time": 663,
+    "timeDay": 753,
     "timeWeek": 801,
     "timeMonth": 681,
     "timeYear": 660,
@@ -60,8 +60,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 687,
-    "timeDay": 792,
-    "timeWeek": 798,
+    "timeDay": 791,
+    "timeWeek": 797,
     "timeMonth": 725,
     "timeYear": 687,
     "dailyMinutesDown": {
@@ -82,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 713,
-    "timeDay": 764,
-    "timeWeek": 762,
+    "timeDay": 765,
+    "timeWeek": 761,
     "timeMonth": 689,
     "timeYear": 712,
     "dailyMinutesDown": {
@@ -103,10 +103,10 @@
     "url": "$CLOUD_AMD_1_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-amd-1",
-    "status": "up",
+    "status": "down",
     "uptime": "96.50%",
-    "uptimeDay": "21.05%",
-    "uptimeWeek": "4.06%",
+    "uptimeDay": "23.00%",
+    "uptimeWeek": "4.34%",
     "uptimeMonth": "45.71%",
     "uptimeYear": "95.48%",
     "time": 158,
@@ -115,7 +115,7 @@
     "timeMonth": 141,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 1038,
+      "2026-02-19": 1040,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -139,10 +139,10 @@
     "url": "$CLOUD_AMD_2_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-amd-2",
-    "status": "up",
+    "status": "down",
     "uptime": "96.13%",
-    "uptimeDay": "21.06%",
-    "uptimeWeek": "3.01%",
+    "uptimeDay": "22.98%",
+    "uptimeWeek": "3.28%",
     "uptimeMonth": "45.47%",
     "uptimeYear": "95.00%",
     "time": 158,
@@ -151,7 +151,7 @@
     "timeMonth": 140,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 1038,
+      "2026-02-19": 1041,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -181,10 +181,10 @@
     "url": "$CLOUD_ARM_1_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-arm-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "51.48%",
-    "uptimeWeek": "93.07%",
+    "uptimeDay": "51.25%",
+    "uptimeWeek": "93.04%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "99.87%",
     "time": 157,
@@ -193,7 +193,7 @@
     "timeMonth": 140,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-02-19": 698
+      "2026-02-19": 701
     }
   },
   {
@@ -201,11 +201,11 @@
     "url": "$CLOUD_ARM_2_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-arm-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "51.55%",
-    "uptimeWeek": "93.08%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "51.29%",
+    "uptimeWeek": "93.04%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.87%",
     "time": 158,
     "timeDay": 142,
@@ -213,7 +213,7 @@
     "timeMonth": 141,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 697
+      "2026-02-19": 701
     }
   }
 ]
