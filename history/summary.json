@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1116,
-    "timeDay": 1143,
-    "timeWeek": 1064,
+    "timeDay": 1153,
+    "timeWeek": 1061,
     "timeMonth": 1073,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -37,8 +37,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 662,
-    "timeDay": 771,
-    "timeWeek": 802,
+    "timeDay": 757,
+    "timeWeek": 803,
     "timeMonth": 679,
     "timeYear": 660,
     "dailyMinutesDown": {
@@ -60,8 +60,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 686,
-    "timeDay": 833,
-    "timeWeek": 800,
+    "timeDay": 827,
+    "timeWeek": 801,
     "timeMonth": 725,
     "timeYear": 687,
     "dailyMinutesDown": {
@@ -82,7 +82,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 712,
-    "timeDay": 807,
+    "timeDay": 801,
     "timeWeek": 765,
     "timeMonth": 689,
     "timeYear": 712,
@@ -107,7 +107,7 @@
     "uptime": "96.53%",
     "uptimeDay": "16.80%",
     "uptimeWeek": "3.46%",
-    "uptimeMonth": "46.28%",
+    "uptimeMonth": "46.25%",
     "uptimeYear": "95.52%",
     "time": 158,
     "timeDay": 217,
@@ -115,7 +115,7 @@
     "timeMonth": 140,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 791,
+      "2026-02-19": 805,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -143,7 +143,7 @@
     "uptime": "96.17%",
     "uptimeDay": "16.80%",
     "uptimeWeek": "2.40%",
-    "uptimeMonth": "46.04%",
+    "uptimeMonth": "46.01%",
     "uptimeYear": "95.05%",
     "time": 158,
     "timeDay": 167,
@@ -151,7 +151,7 @@
     "timeMonth": 139,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 792,
+      "2026-02-19": 805,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -183,17 +183,17 @@
     "slug": "cloud-arm-1",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "68.55%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "67.63%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.91%",
     "time": 157,
-    "timeDay": 145,
+    "timeDay": 144,
     "timeWeek": 141,
     "timeMonth": 140,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-02-19": 452
+      "2026-02-19": 466
     }
   },
   {
@@ -203,17 +203,17 @@
     "slug": "cloud-arm-2",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "68.60%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "67.68%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.91%",
     "time": 158,
-    "timeDay": 146,
+    "timeDay": 145,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-02-19": 452
+      "2026-02-19": 465
     }
   }
 ]
