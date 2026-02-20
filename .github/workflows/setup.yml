@@ -38,6 +38,10 @@ jobs:
           command: "update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - name: Sync uptime workflow with Tailscale variant
+        run: cp .github/workflows-templates/uptime-with-tailscale.yml .github/workflows/uptime.yml
+      - name: Sync response time workflow with Tailscale variant
+        run: cp .github/workflows-templates/response-time-with-tailscale.yml .github/workflows/response-time.yml
       - name: Update response time
         uses: upptime/uptime-monitor@v1.41.0
         with:
