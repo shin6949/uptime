@@ -1,7 +1,7 @@
 url: $MY_STREAMING_NOTI_SERVICE_URL
 status: degraded
 code: 522
-responseTime: 19538
-lastUpdated: 2026-04-11T03:18:49.091Z
+responseTime: 19527
+lastUpdated: 2026-04-11T05:39:25.648Z
 startTime: 2024-11-05T11:08:22.005Z
 generator: Upptime <https://github.com/upptime/upptime>
